@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#$#",
+    "#$#"
+  ],
+  "key": {
+    "#": {
+      "item": "ic2:resource",
+      "data": 13
+    },
+    "$": {
+      "item": "mcqwy:parts",
+      "data": 6
+    }
+  },
+  "result": {
+    "item": "mcqwy:parts",
+    "data": 4
+  }
+}
