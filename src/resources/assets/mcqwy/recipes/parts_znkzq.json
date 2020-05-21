@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#&#",
+    "~$~",
+    "-^-"
+  ],
+  "key": {
+    "#": {
+      "item": "mcqwy:parts",
+      "data": 7
+    },
+    "&": {
+      "item": "ic2:crafting",
+      "data": 2
+    },
+    "$": {
+      "item": "ic2:frequency_transmitter"
+    },
+    "~": {
+      "item": "mcqwy:parts",
+      "data": 9
+    },
+    "-": {
+      "item": "ic2:crafting",
+      "data": 2
+    },
+    "^": {
+      "item": "ic2:cable",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "mcqwy:parts",
+    "data": 2
+  }
+}
