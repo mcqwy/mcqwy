@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "$$$",
+    "&&&"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:dye",
+      "data": 10
+    },
+    "&": {
+      "item": "mcqwy:plate",
+      "data": 5
+    },
+    "$": {
+      "item": "mcqwy:parts",
+      "data": 2
+    }
+  },
+  "result": {
+    "item": "mcqwy:refit",
+    "data": 2
+  }
+}
