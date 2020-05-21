@@ -1,0 +1,25 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "orientable",
+        "textures": {
+            "top": "mcqwy:blocks/assembling/assembling_top",
+            "side": "mcqwy:blocks/assembling/assembling_side"
+        }
+    },
+    "variants": {
+        "inventory": [{
+             "textures": { "front": "mcqwy:blocks/assembling/assembling" }
+        }],
+        "burning": {
+            "true": { "textures": { "front": "mcqwy:blocks/assembling/assembling_work" } },
+            "false": { "textures": { "front": "mcqwy:blocks/assembling/assembling" } }
+        },
+        "facing": {
+            "east": { "y": 90 },
+            "north": {},
+            "south": { "y": 180 },
+            "west": { "y": 270 }
+        }
+    }
+}
