@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ic2:rotor_steel"
+    },
+    {
+      "item": "ic2:rotor_steel"
+    },
+    {
+      "item": "ic2:rotor_steel"
+    }
+  ],
+  "result": {
+    "item": "mcqwy:parts",
+    "data": 6
+  }
+}
