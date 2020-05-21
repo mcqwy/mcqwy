@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "# #",
+    "-^-"
+  ],
+  "key": {
+    "#": {
+      "item": "ic2:advanced_heat_vent",
+      "count": 10
+    },
+    "-": {
+      "item": "ic2:te",
+      "data": 27
+    },
+    "^": {
+      "item": "ic2:crafting",
+      "data": 2
+    }
+  },
+  "result": {
+    "item": "mcqwy:parts",
+    "data": 5
+  }
+}
