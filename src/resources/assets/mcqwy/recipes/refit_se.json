@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mcqwy:refit",
+      "data": 0
+    },
+    {
+      "item": "mcqwy:parts",
+      "data": 8
+    },
+    {
+      "item": "ic2:rotor_steel"
+    }
+  ],
+  "result": {
+    "item": "mcqwy:refit",
+    "data": 4
+  }
+}
