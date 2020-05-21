@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#$ ",
+    "#$ ",
+    "-^$"
+  ],
+  "key": {
+    "#": {
+      "item": "ic2:dust",
+      "data": 9
+    },
+    "$": {
+      "item": "ic2:crafting",
+      "data": 4
+    },
+    "-": {
+      "item": "ic2:crafting",
+      "data": 15
+    },
+    "^": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "mcqwy:mcqwy_lanying"
+  }
+}
