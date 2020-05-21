@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#&#",
+    "~$*",
+    "-^-"
+  ],
+  "key": {
+    "#": {
+      "item": "mcqwy:tz_jxwk"
+    },
+    "&": {
+      "item": "mcqwy:parts",
+      "data": 0
+    },
+    "~": {
+      "item": "ic2:resource",
+      "data": 14
+    },
+    "$": {
+      "item": "ic2:te",
+      "data": 22
+    },
+    "*": {
+      "item": "ic2:te",
+      "data": 34
+    },
+    "-": {
+      "item": "ic2:te",
+      "data": 18
+    },
+    "^": {
+      "item": "ic2:te",
+      "data": 24
+    }
+  },
+  "result": {
+    "item": "mcqwy:parts",
+    "data": 10
+  }
+}
