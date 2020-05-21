@@ -1,0 +1,269 @@
+item.energy.loopa.name=§e能量环
+
+item.nlccq.name=能量储存器
+
+item.parts.nlpja.name=核控制器
+
+item.parts.nlpjb.name=电力喷气
+
+item.parts.nlpjc.name=智能控制器
+
+item.parts.nlpjd.name=高强机甲罐
+
+item.parts.nlpje.name=喷气动力组件
+
+item.parts.nlpjf.name=散热器
+
+item.parts.nlpjg.name=涡轮
+
+item.parts.nlpjh.name=高级芯片
+
+item.parts.nlpji.name=能量发射器
+
+item.parts.nlpjj.name=集成电路
+
+item.parts.nlpjk.name=能量产生器
+
+item.plate.platea.name=钻石板
+
+item.plate.plateb.name=致密钻石板
+
+item.plate.platec.name=钚板
+
+item.plate.plated.name=致密钚板
+
+item.plate.platee.name=银板
+
+item.plate.platef.name=致密银板
+
+item.plate.plateg.name=采矿镭射枪
+
+item.food.fooda.name=黄苹果
+
+item.food.foodb.name=红牛
+
+item.food.foodc.name=命运硬币
+
+item.irpg.rpga.name=头
+
+item.irpg.rpgb.name=管理魔杖
+
+item.refit.partsa.name=§a45炮-主C
+
+item.refit.partsb.name=§a07炮-副C
+
+item.refit.partsc.name=§aHAL900-C装置
+
+item.refit.partsd.name=§aMOT1-引擎
+
+item.refit.partse.name=§aATM导弹-S-E
+
+item.refit.partsf.name=装甲
+
+item.refit.partsg.name=§a维修扳手
+
+item.refit.partsh.name=§e高级维修扳手
+
+item.liangzihutui.name=量子护腿
+
+item.swordqingfeng.name=光之剑-青锋
+
+item.swordzichen.name=光之剑-紫辰
+
+item.swordlanying.name=光之剑-蓝影
+
+item.swordqinghong.name=光之剑-青虹
+
+item.swordzhanren.name=光之剑-斩刃
+
+tile.tzjxwk.name=特质机械外壳
+
+tile.yjxwk.name=铱机械外壳
+
+tile.reform.name=改造机
+
+tile.assembling.name=装配机
+
+tile.repair.name=维修机
+
+tile.rpg.name=§eRPG
+
+tile.refit_block.name=改装机
+
+itemGroup.mcqwy=能量装置/方块
+
+itemGroup.mcqwyitem=能量装置/物品
+
+container.mcqwy.demo=能量装置
+
+container.mcqwy.reform=改造机
+
+container.mcqwy.dianliang=当前电量:
+
+container.mcqwy.assembling=装配机
+
+container.mcqwy.repair=维修机
+
+key.mcqwy.showTime=能量环状态GUI
+
+key.categories.mcqwy=能量装置
+
+chat.mcqwy.time=现在时间为：%s。
+
+container.mcqwy.zp=主C
+
+item.list.zc= 配件部位: 主C
+
+item.list.zc.sm= 攻60;容量32;自重1.2t
+
+container.mcqwy.czz=C装置
+
+item.list.czz= 配件部位: C装置
+
+item.list.czz.sm= 防30;自重0.8t
+
+container.mcqwy.fc=副C
+
+item.list.fc= 配件部位: 副C
+
+item.list.fc.sm= 攻30;自重0.8t
+
+container.mcqwy.se=S-E
+
+item.list.se= 配件部位: S-E
+
+item.list.se.sm= 容量8;自重2.0t;装配后可以使用特殊弹
+
+container.mcqwy.yq=引擎
+
+item.list.yq= 配件部位: 引擎
+
+item.list.yq.sm= 载重8t;自重0.8t
+
+item.list.zj= 可以装备到能量环
+
+item.list.zj.sm= 用来抵挡伤害
+
+item.list.bs= 用于维修能量环配件部位的破损
+
+item.list.gjbs= 用于维修能量环配件部位的损坏
+
+container.mcqwy.dp=底盘
+
+container.info.drl=弹容量
+
+container.info.zzz=总载重
+
+container.info.zl=余重量
+
+container.info.tsd=特殊弹
+
+container.mcqwy.zt=OK
+
+container.mcqwy.zt.sun=损
+
+container.mcqwy.zt.huai=坏
+
+container.mcqwy.zl=15.00t
+
+effect.superarmor=霸体
+
+effect.analeptic=兴奋剂
+
+item.list.energy.name=§6 拥有者:§a 
+
+item.list.energy.gz=§e o✡§b§l改装属性§e✡o
+
+item.list.energy.zc=§6  主 C§a[§8未开洞§a]
+
+item.list.energy.zca=§6  主 C§a[§4改造失败§a]
+
+item.list.energy.zcb=§6  主 C§a[未装配]
+
+item.list.energy.zcc=§6  主 C§a[45炮]
+
+item.list.energy.fc=§6  副 C§a[§8未开洞§a]
+
+item.list.energy.fca=§6  副 C§a[§4改造失败§a]
+
+item.list.energy.fcb=§6  副 C§a[未装配]
+
+item.list.energy.fcc=§6  副 C§a[07炮]
+
+item.list.energy.czz=§6  C装置§a[§8未开洞§a]
+
+item.list.energy.czza=§6  C装置§a[§4改造失败§a]
+
+item.list.energy.czzb=§6  C装置§a[未装配]
+
+item.list.energy.czzc=§6  C装置§a[§eHAL900a]
+
+item.list.energy.dp=§6  底 盘§a[§aTILPO§a]
+
+item.list.energy.yq=§6  引 擎§a[§8未开洞§a]
+
+item.list.energy.yqa=§6  引 擎§a[§4改造失败§a]
+
+item.list.energy.yqb=§6  引 擎§a[未装配]
+
+item.list.energy.yqc=§6  引 擎§a[MOT1]
+
+item.list.energy.se=§6  S - E§a[§8未开洞§a]
+
+item.list.energy.sea=§6  S - E§a[§4改造失败§a]
+
+item.list.energy.seb=§6  S - E§a[未装配]
+
+item.list.energy.sec=§6  S - E§a[ATM导弹]
+
+item.list.energy.sx=§a 属性:
+
+item.list.energy.armor=§2 已装甲数量: 
+
+item.list.energy.sb=§2 闪避率: + 16%
+
+item.list.energy.sm=§2 生命值: + 20
+
+item.list.energy.bj=§2 暴击率: + 20
+
+player.info.tips=§4 未装配[引擎] 或 已负重 或 [引擎]已损坏,§a详细信息请打开能量状态查看(默认R键)
+
+item.list.zc.sun=§c 损
+
+item.list.zc.huai=§4 坏
+
+player.info.zc.sun=§a[主C]§4破损!
+
+player.info.fc.sun=§a[副C]§4破损!
+
+player.info.czz.sun=§a[C装置]§4破损!
+
+player.info.yq.sun=§a[引擎]§4破损!
+
+player.info.se.sun=§a[S-E]§4破损!
+
+player.info.dp.sun=§a[底盘]§4破损!
+
+player.info.zc.huai=§a[主C]§4已损坏!
+
+player.info.fc.huai=§a[副C]§4已损坏!
+
+player.info.czz.huai=§a[C装置]§4已损坏!已失去保护作用!
+
+player.info.yq.huai=§a[引擎]§4已损坏!已失去保护作用!
+
+player.info.se.huai=§a[S-E]§4已损坏!
+
+player.info.dp.huai=§a[底盘]§4已损坏!
+
+player.info.no=§4 已失去能量环保护效果!
+
+player.info.sb=你闪避了一次攻击.
+
+player.info.sb=你打出了一次暴击!
+
+rpg.list.cj=场景:
+
+rpg.list.sj=时间限制:
+
+rpg.list.xq=进行中:
