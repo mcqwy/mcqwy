@@ -1,0 +1,52 @@
+item.goldenEgg.name=Energy ring
+
+item.gqjjg.name=High strength machine canister
+
+item.srq.name=Radiator
+
+item.mcqwywl.name=Turbine
+
+item.hkzq.name=Nuclear Controller
+
+item.pqdl.name=Jet Power Module
+
+item.dlpq.name=Power jet
+
+item.nlccq.name=Energy Storage
+
+item.nlcsq.name=npgr
+
+item.nlfsq.name=Energy Transmitter
+
+item.mcqwyyq.name=Engine
+
+item.jcdl.name=Integrated Circuit
+
+item.gjxp.name=Advanced Chip
+
+item.znkzq.name=Intelligent Controller
+
+
+tile.tzjxwk.name=Characteristic mechanical shell
+
+tile.yjxwk.name=Iridium mechanical shell
+
+itemGroup.mcqwy=Energy Device / block
+
+itemGroup.mcqwyitem=Energy Devices / objects
+
+container.mcqwy.demo=Energy Device
+
+key.mcqwy.showTime=Display time
+
+key.categories.mcqwy=Energy Device
+
+chat.mcqwy.time=The time is now：%s。
+
+container.mcqwy.zp=主C
+
+container.mcqwy.zt=OK
+
+container.mcqwy.zl=15.00t
+
+potion.fallProtection=***
