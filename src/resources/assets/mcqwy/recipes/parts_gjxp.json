@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "#$#",
+    "-$-"
+  ],
+  "key": {
+    "#": {
+      "item": "ic2:energy_crystal",
+      "data": 32767
+    },
+    "$": {
+      "item": "ic2:crafting",
+      "data": 2
+    },
+    "-": {
+      "item": "ic2:scanner"
+    }
+  },
+  "result": {
+    "item": "mcqwy:parts",
+    "data": 7
+  }
+}
