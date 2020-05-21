@@ -1,0 +1,8 @@
+{
+    "mcqwy.test": {
+        "category": "player", 
+        "sounds": [ 
+            "Crit" 
+        ] 
+    }
+}
