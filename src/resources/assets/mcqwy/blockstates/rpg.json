@@ -1,0 +1,25 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "orientable",
+        "textures": {
+            "top": "mcqwy:blocks/rpg/rpg_top",
+            "side": "mcqwy:blocks/rpg/rpg"
+        }
+    },
+    "variants": {
+        "inventory": [{
+             "textures": { "front": "mcqwy:blocks/rpg/rpg" }
+        }],
+        "burning": {
+            "true": { "textures": { "front": "mcqwy:blocks/rpg/rpg_work", "side": "mcqwy:blocks/rpg/rpg_work" } },
+            "false": { "textures": { "front": "mcqwy:blocks/rpg/rpg" } }
+        },
+        "facing": {
+            "east": { "y": 90 },
+            "north": {},
+            "south": { "y": 180 },
+            "west": { "y": 270 }
+        }
+    }
+}
