@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mcqwy",
+  "name": "Mc Qwy",
+  "description": "A Minecraft 1.12.2 Forge Mod Loader Mon_lh.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://www.mcqwy.com",
+  "updateUrl": "https://www.mcqwy.com",
+  "authorList": ["Mon_lh"],
+  "credits": "Notch, Cpw, etc.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
