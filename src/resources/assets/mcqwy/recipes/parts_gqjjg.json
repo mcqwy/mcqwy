@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#&#",
+    "~ ~",
+    "#&#"
+  ],
+  "key": {
+    "#": {
+      "item": "ic2:plate",
+      "data": 11
+    },
+    "&": {
+      "item": "ic2:crafting",
+      "data": 3
+    },
+    "~": {
+      "item": "ic2:plate",
+      "data": 16
+    }
+  },
+  "result": {
+    "item": "mcqwy:parts",
+    "data": 3
+  }
+}
