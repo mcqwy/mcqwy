@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#&#",
+    "~$~",
+    "-^-"
+  ],
+  "key": {
+    "#": {
+      "item": "mcqwy:y_jxwk"
+    },
+    "&": {
+      "item": "mcqwy:parts",
+      "data": 5
+    },
+    "$": {
+      "item": "mcqwy:parts",
+      "data": 8
+    },
+    "~": {
+      "item": "mcqwy:nl_ccq"
+    },
+    "-": {
+      "item": "mcqwy:parts",
+      "data": 1
+    },
+    "^": {
+      "item": "mcqwy:parts",
+      "data": 3
+    }
+  },
+  "result": {
+    "item": "mcqwy:refit",
+    "data": 3
+  }
+}
